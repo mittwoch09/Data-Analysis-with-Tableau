@@ -18,6 +18,6 @@ This dataset consisted of about 1.3 million pieces of data.
 
 ## Dashboard
 
-<img scr="https://github.com/mittwoch09/Data-Analysis-with-Tableau/blob/main/Images/dashboard_with_tableau.jpg" width=50% height=50%>
+<img src="https://github.com/mittwoch09/Data-Analysis-with-Tableau/blob/main/Images/dashboard_with_tableau.jpg" width=40% height=40%>
 
 ## Notes
