@@ -12,12 +12,13 @@ The purpose of this project is to classify customers and analyize the value of c
 
 ## Data Source
 
-The dataset is a competition currently in progress at [Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data), and there were various files related to customer data, but I just use the `transaction.csv` data for customer analysis.
+The dataset is a competition currently in progress at [Kaggle](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data), and there were various files related to customer data, but I only use the `transaction.csv` data for customer analysis.
 
 This dataset consisted of about 1.3 million pieces of data.
 
 ## Dashboard
 
-<img src="https://github.com/mittwoch09/Data-Analysis-with-Tableau/blob/main/Images/dashboard_with_tableau.jpg" width=40% height=40%>
+<img src="https://github.com/mittwoch09/Data-Analysis-with-Tableau/blob/main/Images/dashboard_with_tableau.jpg" width=60% height=60%>
+
 
 ## Notes
