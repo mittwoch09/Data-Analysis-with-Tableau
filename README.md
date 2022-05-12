@@ -20,5 +20,6 @@ This dataset consisted of about 1.3 million pieces of data.
 
 <img src="https://github.com/mittwoch09/Data-Analysis-with-Tableau/blob/main/Images/dashboard_with_tableau.jpg" width=60% height=60%>
 
-
 ## Notes
+
+I used the Pandas for analysis and 6 types of customers were classified by RFM method. Not only classification using scores but also classification using K-means clustering was also performed.
