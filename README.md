@@ -23,3 +23,5 @@ This dataset consisted of about 1.3 million pieces of data.
 ## Notes
 
 I used the Pandas for analysis and 6 types of customers were classified by RFM method. Not only classification using scores but also classification using K-means clustering was also performed.
+
+[Tableau Desktop](https://public.tableau.com/views/HMCustomersAnalysis/HMCustomersAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
